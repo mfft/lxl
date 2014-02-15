@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  to: MyString
+  cc: MyString
+  from: MyString
+  subject: MyString
+  body_html: MyText
+  body_text: MyText
+  received_at: 2014-02-15 05:00:47
+
+two:
+  to: MyString
+  cc: MyString
+  from: MyString
+  subject: MyString
+  body_html: MyText
+  body_text: MyText
+  received_at: 2014-02-15 05:00:47

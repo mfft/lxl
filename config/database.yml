@@ -1,0 +1,23 @@
+development:
+  adapter: mysql2
+  host: localhost
+  database: golexel-dev
+  username: golexel-dev
+  password: b1gsECRET
+  encoding: utf8
+
+test:
+  adapter: mysql2
+  host: localhost
+  database: golexel-test
+  username: golexel-test
+  password: b1gsECRET
+  encoding: utf8
+
+production:
+  adapter: mysql2
+  host: localhost
+  database: golexel-prod
+  username: golexel-prod
+  password: VerYb1gsECRET
+  encoding: utf8
